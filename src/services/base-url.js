@@ -1,1 +1,1 @@
-export const BASE_URL="https://mp-server-8xir.onrender.com/"
+export const BASE_URL="https://mp-server-8xir.onrender.com"
